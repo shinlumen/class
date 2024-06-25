@@ -2,4 +2,5 @@
 title: Home
 layout: home
 ---
-# Shin website
+# Shin's Website
+## Artist
